@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_view_dimen">5dp</dimen>
+    <dimen name="normal_radius">3dp</dimen>
+    <dimen name="appbar_height_layout">200dp</dimen>
+</resources>

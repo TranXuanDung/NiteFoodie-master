@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NiteFoodie</string>
+    <string name="loading">Loading</string>
+    <string name="action_voice">action voice</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favortite</string>
+    <string name="store">Store</string>
+    <string name="notification">Notification</string>
+    <string name="account">Account</string>
+    <string name="hot_sale">Hot Sale</string>
+    <string name="popular">Popular</string>
+    <string name="all">All</string>
+    <string name="favourite">Favourite</string>
+    <string name="facebook_app_id">1398051863622752</string>
+</resources>

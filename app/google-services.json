@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1041166789659",
+    "firebase_url": "https://nitefoodie-b4c1b.firebaseio.com",
+    "project_id": "nitefoodie-b4c1b",
+    "storage_bucket": "nitefoodie-b4c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041166789659:android:60c3a175090be935",
+        "android_client_info": {
+          "package_name": "com.t3h.nitefoodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041166789659-8551k68fjdt215dgrkt6u4c9v1h88nb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.t3h.nitefoodie",
+            "certificate_hash": "2003ea0144848951920531b8bb8933382ef5c6bf"
+          }
+        },
+        {
+          "client_id": "1041166789659-52sgofcmlu6gpt0bvcgo9lag19om6spm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn85_B9hHK0d79lzpWXScWxZuZT8_tNL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041166789659-52sgofcmlu6gpt0bvcgo9lag19om6spm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

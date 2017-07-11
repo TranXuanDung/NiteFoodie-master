@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/food_bg"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.t3h.nitefoodie.ui.main.login.LoginActivity">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:gravity="center"
+        android:text="NiteFoodie"
+        android:textColor="@color/white"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_fb_login"
+        style="?attr/borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_selector"
+        android:backgroundTint="@color/white"
+        android:drawableLeft="@drawable/facebook_logo"
+        android:elevation="5dp"
+        android:text="Login by Facebook"
+        android:textAllCaps="false"
+        android:textColor="@color/com_facebook_blue"
+        android:textSize="16sp"
+        android:visibility="invisible" />
+</RelativeLayout>
